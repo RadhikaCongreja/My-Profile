@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning BS in Computer Science.
 - 💞️ I’m looking to collaborate on front-end and back-end web development projects.
 - 📫 How to reach me, you can email me at radhikacongreja@gmail.com
+- 🧠 I use [Visual Studi Code](https://code.visualstudio.com/) as my text editor
 
 <!---
 Radhika890/Radhika890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
